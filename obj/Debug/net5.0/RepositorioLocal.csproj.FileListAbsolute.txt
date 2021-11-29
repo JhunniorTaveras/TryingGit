@@ -1,0 +1,16 @@
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\RepositorioLocal.exe
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\RepositorioLocal.deps.json
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\RepositorioLocal.runtimeconfig.json
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\RepositorioLocal.runtimeconfig.dev.json
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\RepositorioLocal.dll
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\ref\RepositorioLocal.dll
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\bin\Debug\net5.0\RepositorioLocal.pdb
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.csproj.AssemblyReference.cache
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.AssemblyInfoInputs.cache
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.AssemblyInfo.cs
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.csproj.CoreCompileInputs.cache
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.dll
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\ref\RepositorioLocal.dll
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.pdb
+C:\Users\jtave\OneDrive\Desktop\RepositorioLocal\obj\Debug\net5.0\RepositorioLocal.genruntimeconfig.cache
